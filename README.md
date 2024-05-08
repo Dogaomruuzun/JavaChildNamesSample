@@ -13,16 +13,16 @@ Long Length for a name: 9 middle Length should be any value in between
 Your program should read in names from babynames.txt and store them into arrayLists called boys and girls. (The file contains names in the order boy- girl, boy-girl and so on)
 
 Necessary imports:
-import java.awt.BorderLayout; 
-import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.File; import javax.swing.JTextArea;
-import java.io.FileNotFoundException; import java.util.ArrayList;
-import java.util.Scanner; import javax.swing.ButtonGroup;
-import javax.swing.JButton;
-import javax.swing.JCheckBox; import javax.swing.JComboBox:
-import javax.swing.JFrame; import javax.swingJLabel;
-import javax.swing.JOptionPane; import javax.swingJPanel;
-import javax.swing.JRadioButton; import javax.swing JScrollPane:
-import javax.swing.JTextField;
+- import java.awt.BorderLayout; 
+- import java.awt.GridLayout;
+- import java.awt.event.ActionEvent;
+- import java.awt.event.ActionListener;
+- import java.io.File; import javax.swing.JTextArea;
+- import java.io.FileNotFoundException; import java.util.ArrayList;
+- import java.util.Scanner; import javax.swing.ButtonGroup;
+- import javax.swing.JButton;
+- import javax.swing.JCheckBox; import javax.swing.JComboBox:
+- import javax.swing.JFrame; import javax.swingJLabel;
+- import javax.swing.JOptionPane; import javax.swingJPanel;
+- import javax.swing.JRadioButton; import javax.swing JScrollPane:
+- import javax.swing.JTextField;
